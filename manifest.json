@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Shell Shockers Launcher",
+  "description": "Shell Shockers launcher for use of side mouse buttons as keybinds.",
+  "version": "1.0",
+  "action": {
+    "default_popup": "index.html",
+    "default_icon": "shell.png"
+  }
+}
